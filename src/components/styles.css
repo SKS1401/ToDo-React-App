@@ -1,0 +1,18 @@
+.input {
+    height: 20px;
+    width: 300px ;
+}
+.b1 {
+    
+    padding: 5px 20px;
+    background-color: rgb(5, 5, 142);
+    color: white;
+
+}
+.task-box {
+    margin: auto;
+    background-color: white;
+    width: 50%;
+    
+    color: crimson;
+}
